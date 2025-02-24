@@ -5,7 +5,6 @@ import Header from "./shared/header";
 import { AppRouterCacheProvider } from "@mui/material-nextjs/v15-appRouter";
 import ResponsiveDrawer from "./shared/navBar";
 import DND from "./shared/dnd";
-import Test from "./shared/test";
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
