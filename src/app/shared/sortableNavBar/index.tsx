@@ -5,7 +5,6 @@ const SortableNavBar = ({
   initialItems,
   level = 0,
   path = "nav",
-  parentId = null,
   child,
   openEdit,
 }: any) => {
